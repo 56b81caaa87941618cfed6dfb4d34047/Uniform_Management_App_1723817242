@@ -12,5 +12,11 @@
         "content": "add a form",
         "timestamp": "16082024140805",
         "message_id": "guest16082024140803"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great idea, I'll start working on the form.",
+        "timestamp": "16082024140805",
+        "message_id": "guest16082024140803"
     }
 ]
