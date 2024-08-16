@@ -18,5 +18,11 @@
         "content": "Great idea, I'll start working on the form.",
         "timestamp": "16082024140805",
         "message_id": "guest16082024140803"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the form to be a separate page or integrated within an existing page?\", \"option1\": \"Separate page\", \"option2\": \"Integrated within an existing page\"}, {\"question 2\": \"What information do you wish to collect with this form? (Please choose the most relevant option)\", \"option1\": \"User Contact Information (e.g., name, email)\", \"option2\": \"Feedback or Custom Uniform Requests\"}], \"input_token_count\": 267, \"output_token_count\": 103, \"time_taken\": \"0:00:04.831410\"}",
+        "timestamp": "16082024140810",
+        "message_id": "guest16082024140803"
     }
 ]
